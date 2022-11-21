@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 360px;
+  height: 48px;
+}
+.png-apple-logo-9736-1-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 167px;
+  width: 24px;
+  height: 23px;
+  object-fit: cover;
+}
+.rectangle-div5 {
+  position: absolute;
+  top: 0;
+  left: 312px;
+  background-color: var(--color-gray-200);
+  width: 48px;
+  height: 48px;
+}
+.rectangle-div6,
+.rectangle-div7,
+.rectangle-div8 {
+  position: absolute;
+  top: 20px;
+  left: 17px;
+  background-color: var(--color-gray-100);
+  width: 14px;
+  height: 1px;
+}
+.rectangle-div7,
+.rectangle-div8 {
+  top: 24px;
+}
+.rectangle-div8 {
+  top: 28px;
+}
+.bag-icon,
+.rectangle-div9 {
+  position: absolute;
+  top: 16px;
+  left: 328px;
+  width: 16px;
+  height: 16px;
+}
+.rectangle-div9 {
+  top: 233px;
+  left: 17px;
+  border-radius: 70px;
+  background-color: var(--color-gray-200);
+  width: 327px;
+  height: 173px;
+}
+.fir-aagya-tu {
+  position: absolute;
+  top: 301px;
+  left: 84px;
+  font-weight: 300;
+  display: inline-block;
+}
+.rectangle-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-indigo);
+  position: absolute;
+  top: 593px;
+  left: 273px;
+  border-radius: var(--br-md);
+  width: 71px;
+  height: 30px;
+}
+.back {
+  text-decoration: none;
+  position: absolute;
+  top: 597px;
+  left: 287px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+}
+.buy-screen-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 31px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
