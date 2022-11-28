@@ -2,6 +2,13 @@
   /* fonts */
   --font-work-sans: "Work Sans";
 
+  /* font sizes */
+  --font-size-base: 15px;
+
   /* Colors */
-  --color-black: #000;
+  --color-white: #fff;
+  --color-indigo: #0085ff;
+
+  /* border radiuses */
+  --br-md: 15px;
 }
